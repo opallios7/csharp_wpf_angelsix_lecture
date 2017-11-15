@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBasics", "WpfBasics\WpfBasics.csproj", "{95CB58BC-E89A-40B0-9213-6C9C89502B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTreeView", "WpfTreeView\WpfTreeView.csproj", "{0BCF76CF-2411-4BDA-87AD-61153FAFA92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CB58BC-E89A-40B0-9213-6C9C89502B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CB58BC-E89A-40B0-9213-6C9C89502B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CB58BC-E89A-40B0-9213-6C9C89502B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CB58BC-E89A-40B0-9213-6C9C89502B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCF76CF-2411-4BDA-87AD-61153FAFA92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCF76CF-2411-4BDA-87AD-61153FAFA92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCF76CF-2411-4BDA-87AD-61153FAFA92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCF76CF-2411-4BDA-87AD-61153FAFA92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F872DF4-F70E-4198-A08C-FA8E540F89F8}
+	EndGlobalSection
+EndGlobal
